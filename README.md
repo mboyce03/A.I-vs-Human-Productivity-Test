@@ -24,9 +24,3 @@ Your task is to count how many valid scores exist in the provided array.
 - The solution should return an integer representing the number of valid scores
 
 ---
-
-## Method Signature
-You must implement the following method:
-
-```csharp
-int CountValidScores(int[] scores)
