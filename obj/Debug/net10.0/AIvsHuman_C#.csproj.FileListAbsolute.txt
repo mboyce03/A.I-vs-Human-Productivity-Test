@@ -12,3 +12,4 @@ C:\Users\matth\AIvsHuman_C#\obj\Debug\net10.0\refint\AIvsHuman_C#.dll
 C:\Users\matth\AIvsHuman_C#\obj\Debug\net10.0\AIvsHuman_C#.pdb
 C:\Users\matth\AIvsHuman_C#\obj\Debug\net10.0\AIvsHuman_C#.genruntimeconfig.cache
 C:\Users\matth\AIvsHuman_C#\obj\Debug\net10.0\ref\AIvsHuman_C#.dll
+C:\Users\matth\AIvsHuman_C#\obj\Debug\net10.0\AIvsHuman_C#.sourcelink.json

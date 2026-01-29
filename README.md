@@ -1,26 +1,31 @@
-# Beginner Coding Task – Valid Score Counter
+# AI vs Human Coding Experiment (C#)
 
 ## Overview
-This task assesses basic programming skills in C#. You are required to implement a simple method that processes an array of integers and applies conditional logic to determine which values are valid.
 
-The task is designed to be completed within a short time frame and does not require advanced language features or external libraries.
+This repository contains a series of coding challenges designed to evaluate the impact of AI-assisted tools on programming performance.
 
----
-
-## Problem Description
-You are given an array of integer values representing test scores.
-
-A score is considered **valid** if it falls within the range **0 to 100 inclusive**.
-
-Your task is to count how many valid scores exist in the provided array.
+Participants complete programming tasks of increasing difficulty under controlled conditions, either with or without access to AI assistance.
 
 ---
 
-## Requirements
-- Scores less than 0 are invalid
-- Scores greater than 100 are invalid
-- Scores between 0 and 100 inclusive are valid
-- The original array must not be modified
-- The solution should return an integer representing the number of valid scores
+## Challenge Structure
+
+The experiment consists of four challenge levels:
+
+1. Beginner
+2. Intermediate
+3. Advanced
+4. Expert
+
+Each challenge is self-contained and includes:
+- A starter C# file
+- A README file describing the task requirements
 
 ---
+
+## How to Run
+
+1. Open the solution in Visual Studio or VS Code
+2. Run the project using:
+   ```bash
+   dotnet run
