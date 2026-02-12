@@ -4,8 +4,8 @@ Welcome to the coding assessment.
 
 This repository contains two folders:
 
-- `Non-AI`
-- `AI`
+- Non-AI
+- AI
 
 Each folder contains coding challenges designed to assess performance under different conditions.
 
@@ -25,7 +25,7 @@ However, once you begin a challenge from one folder, you must complete it under 
 
 ## Restrictions
 
-While completing challenges inside the `Non-AI` folder:
+While completing challenges inside the Non-AI folder:
 
 You are **NOT permitted** to use:
 
@@ -54,7 +54,7 @@ The expectation is that all logic and implementation are written manually by you
 
 ## Permissions
 
-While completing challenges inside the `AI` folder:
+While completing challenges inside the AI folder:
 
 You are permitted to use:
 
