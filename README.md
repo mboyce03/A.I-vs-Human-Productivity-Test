@@ -70,7 +70,8 @@ You should see a version number.
    ```bash
    C#
 
-   4. Install the extension published by **Microsoft**.
+4. Install the extension published by **Microsoft**.
+
 5. Restart VS Code if prompted.
 
 ---
@@ -82,11 +83,11 @@ You should see a version number.
    - Terminal → New Terminal
 
 3. Restore dependencies (if required):
-         ```bash
+      ```bash
    dotnet restore
 
 4. Run the project:
-         ```bash
+      ```bash
    dotnet run
 
 
