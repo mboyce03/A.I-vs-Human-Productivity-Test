@@ -16,17 +16,8 @@ namespace AIvsHuman_CSharp
 
         static int CountValidScores(List<int> scores)
         {
-            int count = 0;
-
-            foreach (int score in scores)
-            {
-                if (score >= 0 && score <= 100)
-                {
-                    count++;
-                }
-            }
-
-            return count;
+            //Logic to count valid scores to be implemented here
+            return 0;
         }
     }
 }
