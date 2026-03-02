@@ -23,8 +23,6 @@ Each challenge is self-contained and includes:
 
 ---
 
-## How to Run
-
 ## How to Run the Project
 
 ### Option 1: Using Visual Studio
